@@ -1,0 +1,11 @@
+{
+  "version": "0.1",
+  "dependencies": {
+    "@googleapis/youtube": "^20.0.0",
+    "node-html-parser": "^6.1.13"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "@types/bun": "^1.1.13"
+  }
+}
